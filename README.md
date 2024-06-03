@@ -1,10 +1,4 @@
-Hi, I'm Kira :)
-
-I like Rust, WebAssembly and Linux.
-
-You can reach me by email: [k@cyra.pink](mailto:k@cyra.pink)
-
-❤️
+Hi, I'm Kira ❤️
 
 <!---
 CYRADOTPINK/CYRADOTPINK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
